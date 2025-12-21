@@ -253,7 +253,7 @@
 
 <a href="www.linkedin.com/in/vidya-kushte-4b919033"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.numpyninjaacademy.com/post/introduction-to-api-testing-with-postman, https://www.numpyninjaacademy.com/post/optimizing-postgresql-queries-practical-tips-for-faster-performance"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a> <a href="mailto:vidya.kushte@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 
-📫 **Reach out** — I'd love to hear from you!
+📫 **Reach out** — I'd love to hear from you! Thank you for Visiting !
 
 </div>
 
