@@ -3,11 +3,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=vidya-collab&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDET%20%2FAutomation%20Tester&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=vidya-collab&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDET&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/vidya-collab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%E2%80%9CSDET%20building%20scalable%20automation%20frameworks%20with%20early%20bug%20detection%20and%20clear%20reporting.%E2%80%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Automation%20Tester" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
@@ -20,7 +20,7 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="www.linkedin.com/in/vidya-kushte-4b919033"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.numpyninjaacademy.com/post/optimizing-postgresql-queries-practical-tips-for-faster-performance"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a> <a href="https://www.numpyninjaacademy.com/post/introduction-to-api-testing-with-postman"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> <a href="mailto:vidya.kushte@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="www.linkedin.com/in/vidya-kushte-4b919033"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.numpyninjaacademy.com/post/introduction-to-api-testing-with-postman, https://www.numpyninjaacademy.com/post/optimizing-postgresql-queries-practical-tips-for-faster-performance"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a> <a href="mailto:vidya.kushte@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 </p>
 
 </div>
@@ -33,16 +33,16 @@
 
 
 
-💼 **1 + year of experience in Test Automation**
+💼 **1 + year of Experience**
 
-🔭 Currently working on **[PlayWrightAutomationPractice](https://github.com/vidya-collab/PlayWrightAutomationPractice)**
+🔭 Currently working on **[SeleniumPractice](https://github.com/vidya-collab/SeleniumPractice)**
 
-🌱 Currently learning **Playwright with Javascript **
+🌱 Currently learning **Playwright**
 
-💬 Ask me about **Test Automation , Selenium (Cucumber BDD/ TestNG), Postman, Git /GitHub, Jira, PostgreSQL , Maven, Agile Methodology**
+💬 Ask me about **Test Automation , Selenium(Cucumber BDD /TestNG), Postman, Git/ Git Hub, Jira, Maven, PostgreSQL**
 
 
-⚡ Fun fact: **I debug a code faster with Tea !**
+⚡ Fun fact: **I Test Code **
 
 📦 **13** repositories
 
@@ -93,7 +93,6 @@
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
 <img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-<img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
 <img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure"/>
 <img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
@@ -106,8 +105,8 @@
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 </div>
 
@@ -136,11 +135,11 @@
 
 <div align="center">
 
-<a href="https://github.com/vidya-collab/PlayWrightAutomationPractice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vidya-collab&repo=PlayWrightAutomationPractice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="PlayWrightAutomationPractice"/></a>
 <a href="https://github.com/vidya-collab/SeleniumPractice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vidya-collab&repo=SeleniumPractice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SeleniumPractice"/></a>
-<a href="https://github.com/vidya-collab/PlaywrightWebElementTesting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vidya-collab&repo=PlaywrightWebElementTesting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="PlaywrightWebElementTesting"/></a>
-<a href="https://github.com/vidya-collab/Practice_postman-collection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vidya-collab&repo=Practice_postman-collection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Practice_postman-collection"/></a>
+<a href="https://github.com/vidya-collab/PlayWrightAutomationPractice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vidya-collab&repo=PlayWrightAutomationPractice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="PlayWrightAutomationPractice"/></a>
 <a href="https://github.com/vidya-collab/Postman_NumpyCollection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vidya-collab&repo=Postman_NumpyCollection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Postman_NumpyCollection"/></a>
+<a href="https://github.com/vidya-collab/Practice_postman-collection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vidya-collab&repo=Practice_postman-collection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Practice_postman-collection"/></a>
+<a href="https://github.com/vidya-collab/PlaywrightWebElementTesting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vidya-collab&repo=PlaywrightWebElementTesting&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="PlaywrightWebElementTesting"/></a>
 <a href="https://github.com/vidya-collab/POSTGRESQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vidya-collab&repo=POSTGRESQL&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="POSTGRESQL"/></a>
 
 </div>
@@ -159,13 +158,6 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/vidya-collab/PlayWrightAutomationPractice"><b>PlayWrightAutomationPractice</b></a></td>
-<td>PlayWrightProject</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
 <td><a href="https://github.com/vidya-collab/SeleniumPractice"><b>SeleniumPractice</b></a></td>
 <td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
@@ -173,11 +165,18 @@
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/vidya-collab/PlaywrightWebElementTesting"><b>PlaywrightWebElementTesting</b></a></td>
-<td>No description</td>
+<td><a href="https://github.com/vidya-collab/PlayWrightAutomationPractice"><b>PlayWrightAutomationPractice</b></a></td>
+<td>PlayWrightProject</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/vidya-collab/Postman_NumpyCollection"><b>Postman_NumpyCollection</b></a></td>
+<td>Postman Collection .json file for Numpy and Simple Book API</td>
+<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
+<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/vidya-collab/Practice_postman-collection"><b>Practice_postman-collection</b></a></td>
@@ -187,11 +186,11 @@
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/vidya-collab/Postman_NumpyCollection"><b>Postman_NumpyCollection</b></a></td>
-<td>Postman Collection .json file for Numpy and Simple Book API</td>
+<td><a href="https://github.com/vidya-collab/PlaywrightWebElementTesting"><b>PlaywrightWebElementTesting</b></a></td>
+<td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/vidya-collab/POSTGRESQL"><b>POSTGRESQL</b></a></td>
@@ -252,7 +251,7 @@
 
 **I'm always interested in collaborating on exciting projects!**
 
-<a href="www.linkedin.com/in/vidya-kushte-4b919033"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.numpyninjaacademy.com/post/optimizing-postgresql-queries-practical-tips-for-faster-performance"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a> <a href="https://www.numpyninjaacademy.com/post/introduction-to-api-testing-with-postman"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> <a href="mailto:vidya.kushte@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="www.linkedin.com/in/vidya-kushte-4b919033"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://www.numpyninjaacademy.com/post/introduction-to-api-testing-with-postman, https://www.numpyninjaacademy.com/post/optimizing-postgresql-queries-practical-tips-for-faster-performance"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a> <a href="mailto:vidya.kushte@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
 
 📫 **Reach out** — I'd love to hear from you!
 
@@ -267,4 +266,3 @@
 **⭐ From [vidya-collab](https://github.com/vidya-collab) with ❤️**
 
 </div>
-
