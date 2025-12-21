@@ -159,7 +159,7 @@
 <tbody>
 <tr>
 <td><a href="https://github.com/vidya-collab/SeleniumPractice"><b>SeleniumPractice</b></a></td>
-<td>No description</td>
+<td>Testing web Elements from https://webdriveruniversity.com/ website ---like Checkbox,Dropdown,RadioButton,file upload,Alert,Frame,DatePicker,Action class</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
@@ -180,14 +180,14 @@
 </tr>
 <tr>
 <td><a href="https://github.com/vidya-collab/Practice_postman-collection"><b>Practice_postman-collection</b></a></td>
-<td>No description</td>
+<td>It is a postman collection for API : https://reqres.in/api/. Genarating NewMan Report from Jenkin</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/vidya-collab/PlaywrightWebElementTesting"><b>PlaywrightWebElementTesting</b></a></td>
-<td>No description</td>
+<td>Testing : 'https://the-internet.herokuapp.com' with --Playwright and Java Scrpit code for handling different webelements</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
