@@ -166,7 +166,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/vidya-collab/PlayWrightAutomationPractice"><b>PlayWrightAutomationPractice</b></a></td>
-<td>PlayWrightProject</td>
+<td>It is practice of automation -with Playwright and JavaScrpit for https://demo.nopcommerce.com/register, https://www.demoblaze.com/, https://playwright.dev/. Generating Report such as HTML, Allure, Extend.</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
