@@ -42,7 +42,7 @@
 💬 Ask me about **Test Automation , Selenium(Cucumber BDD /TestNG), Postman, Git/ Git Hub, Jira, Maven, PostgreSQL**
 
 
-⚡ Fun fact: **I Test Code **
+⚡ Fun fact: **I Test Code faster while drinking hot cup of tea **
 
 📦 **13** repositories
 
